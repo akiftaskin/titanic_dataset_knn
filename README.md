@@ -1,1 +1,1 @@
-# titanic_dataset_knn
+# Bu proje, Kaggle üzerindeki Titanic veri seti kullanılarak bir denetimli öğrenme (supervised learning) modeli oluşturulmasını amaçlamaktadır. Bu hafta, özellikle k-Nearest Neighbors (KNN) algoritması ile sınıflandırma işlemi gerçekleştirilmiştir.
